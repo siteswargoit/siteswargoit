@@ -1,4 +1,5 @@
  💫 Hi 👋, I'm Siteswar Goit
+ 
 A passionate Cloud Engineer || DevOps Engineer || 
  For Collaboration/Project or Anything Else. 😊😊
 - 🔭 I’m currently working on: Enter your project info here
@@ -14,6 +15,7 @@ A passionate Cloud Engineer || DevOps Engineer ||
 ![](https://github-contributor-stats.vercel.app/api?username=siteswargoit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+<img align="right" alt="coding" width="400" src="https://user" images.githubusercontent.com/55389276/140866485-8fb1e876-9a8f-4d6a-98de-08c4981eaf70.gif>
 
 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/15V4XkjJaU/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrsiteswargoit) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/siteswarg) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mr.siteswargoit) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mrsiteswargoit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ksiteswar@gmail.com) 
