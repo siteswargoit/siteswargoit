@@ -1,22 +1,55 @@
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Saddam!;" />
+</h1>
 
- 💫 Hi 👋, I'm Siteswar Goit
- 
-A passionate Cloud Engineer || DevOps Engineer || 
- For Collaboration/Project or Anything Else. 😊😊
-- 🔭 I’m currently working on: Website Development 
-- 🌱 I’m currently learning:  Social Media Management 
-- 👯 I’m looking to collaborate on:* Enter your project name and info
-- 🤔 I’m looking for help with: your project here 
-- 💬 Ask me about: Collaboration, Tech Support
-- 📫 How to reach me:ksiteswar@gmail.com
-- 😄 Pronouns:Siteswar Sir
-- ⚡ Fun fact: I Love Tech and Tech Love Me
 
+<h3 align="center"><i>Passionate</i> <b>Software Engineer</b> <i>&<i> <b>Content Creator</b>
+</h3>
+
+---
+###
+<p align="center">
+  <a href="https://skst.in">
+    <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,php,idea,figma,nodejs,nextjs,mysql,dotnet&theme=light&perline=10" />
+  </a>
+</br>
+  <a href="https://skst.in">
+    <img src="https://skillicons.dev/icons?i=django,flask,firebase,flutter,r,postgres,wordpress,tailwind &theme=light&perline=8" />
+  </a>
+  </br>
+  <a href="https://skst.in">
+    <img src="https://skillicons.dev/icons?i=ps,pr,ai,au,ae,notion" />
+  </a>
+
+
+<!-- </p>
+
+<p align="center">
+
+</p>
+
+<p align="center">
+  <a href="https://skst.in">
+    <img src="https://skillicons.dev/icons?i=au,ps,pr,ai,notion,obsidian,ae" />
+  </a>
+</p> -->
+
+###
+---
+<!-- <h3 align="left">👩‍💻  About Me</h3> -->
+
+###
+
+<h3 align="center"> <b>I'm Mr Siteswar Goit. I live in Nepal ,where I build the future.</b></h3>
+
+
+<p align="center">I am a self-driven, career-oriented software developer specializing in front-end development and open-source, currently pursuing a bachelors degree in computer science. My expertise lies in building interactive web applications on the client side. Primarily working with technologies like JavaScript, Next.js, TypeScript and Python.<br><br>I strongly believe in continuous learning and improving myself, so I try my best to learn in any situation possible, unfavorable or not.<br><br>In addition to my front-end development skills, I'm also a skilled content creator and graphic designer. I have experience writing blog posts, articles, and social media content. I'm also proficient in using Adobe Photoshop and Illustrator to create graphics and logos.<br><br>I'm currently looking for opportunities to use my skills to make a positive impact on the world. I'm interested in working on projects that are related to education, social justice, and environmental sustainability.</p>
+
+
+  
  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=siteswargoit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-<img align="right" alt="coding" width="400" src="https://user"images.githubusercontent.com/55389276/140866485-8fb1e876-9a8f-4d6a-98de-08c4981eaf70.gif>
 
 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/15V4XkjJaU/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrsiteswargoit) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/siteswarg) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mr.siteswargoit) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mrsiteswargoit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ksiteswar@gmail.com) 
